@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C++ and Python . 
 - 💞️ I’m looking to collaborate with many professional software  engineers to improve my skills in my major . 
 - 📫 How to reach me? you can find me on social media like facebook , instagram , TIkTok . 
-- 😄 Pronouns: Bigman haha 
 - ⚡ Fun fact: I am so strict in my life . 
 
 <!---
