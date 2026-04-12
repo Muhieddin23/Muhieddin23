@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhieddin23
 - 👀 I’m interested in learning how to programme the robot debending on my major ( SOFTWARE ENGINERRING ) 
-- 🌱 I’m currently learning C++ and HTML,CSS . 
+- 🌱 I’m currently learning HTML,CSS,Javascript for web development  . 
 - 💞️ I’m looking to collaborate with many professional software  engineers to improve my skills in my major . 
 - 📫 How to reach me? you can find me on social media like facebook , instagram , TIkTok . 
 - ⚡ Fun fact: I am so strict in my life . 
